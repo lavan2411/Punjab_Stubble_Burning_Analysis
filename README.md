@@ -5,7 +5,9 @@
 This project presents an end-to-end data analytics workflow to analyze stubble burning incidents across Punjab using satellite observation data from **2018 to 2021**. The objective is to clean and preprocess the dataset, identify temporal and geographical patterns, derive meaningful insights, and build an interactive Power BI dashboard to support data-driven environmental decision-making.
 
 ---
+## 📊 Dashboard Preview
 
+![Punjab Stubble Burning Dashboard](Punjab_stubble_analysis.png)
 ## 🎯 Objectives
 
 * Clean and preprocess raw satellite data.
@@ -105,9 +107,7 @@ The interactive dashboard includes:
 * Interactive Fire Map
 * Dynamic Filters
 
-## 📊 Dashboard Preview
 
-![Punjab Stubble Burning Dashboard](Punjab_stubble_analysis.png)
 
 ---
 
